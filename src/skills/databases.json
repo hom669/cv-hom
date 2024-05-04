@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Postgresql",
+        "logo": "skills/postgresql.svg",
+        "stars": 5
+    },
+    {
+        "name": "Mysql",
+        "logo": "skills/mysql.svg",
+        "stars": 5
+    },
+    {
+        "name": "MariaDB",
+        "logo": "skills/mariadb.svg",
+        "stars": 5
+    },
+    {
+        "name": "Oracle",
+        "logo": "skills/oracle.svg",
+        "stars": 2
+    },
+    {
+        "name": "SQL Server",
+        "logo": "skills/sqlserver.svg",
+        "stars": 3
+    },
+    {
+        "name": "MongoDB",
+        "logo": "skills/mongodb.svg",
+        "stars": 4
+    }
+]

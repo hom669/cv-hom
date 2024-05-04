@@ -1,0 +1,334 @@
+[
+    {
+        "title": "Desarrollador Full Stack",
+        "company": "CINTE COLOMBIA",
+        "logo": "companys/cinte.png",
+        "date": "Enero 2024 - Actualmente",
+        "description": "Mantenimiento, Creación nuevos modulos o cambios software para cliente IBM. Proyectos: Sistema de Tokenización App Davivienda Modulo para Agregar Tarjetas a Google Pay y Apple Wallet",
+        "tecnologies": [
+            {
+                "name": "NodeJs",
+                "logo": "skills/nodejs.svg"
+            },
+            {
+                "name": "Angular",
+                "logo": "skills/angular.svg"
+            },
+            {
+                "name": "Docker",
+                "logo": "skills/docker.svg"
+            },
+            {
+                "name": "Git",
+                "logo": "skills/git.svg"
+            },
+            {
+                "name": "MongoDB",
+                "logo": "skills/mongodb.svg"
+            },
+            {
+                "name": "SOAP",
+                "logo": "skills/soapui.svg"
+            },
+            {
+                "name": "REST",
+                "logo": "skills/rest.svg"
+            },
+            {
+                "name": "SOLID",
+                "logo": "skills/solid.svg"
+            },
+            {
+                "name": "Clean Code",
+                "logo": "skills/cleancode.svg"
+            },
+            {
+                "name": "POO",
+                "logo": "skills/poo.svg"
+            }
+        ]
+    },
+    {
+        "title": "Desarrollador Full Stack Senior",
+        "company": "QoreHealth",
+        "logo": "companys/qhealth.png",
+        "date": "Octubre 2022 - Noviembre 2023",
+        "description": "Mantenimiento, Creación nuevos modulos o cambios, Soporte e Instalación del aplicativo de Telemedicina, implementación del ciclo de vida del software. Proyectos: Sistema completo de Telemedicina: Ordenes Medicas, Visitas, Teleconferencias, Chats, Sistemas de Dispositivos Medicos y Electrocardiograma.",
+        "tecnologies": [
+            {
+                "name": "Laravel",
+                "logo": "skills/laravel.svg"
+            },
+            {
+                "name": "Vuejs",
+                "logo": "skills/vue.svg"
+            },
+            {
+                "name": "react",
+                "logo": "skills/react.svg"
+            },
+            {
+                "name": "Trello",
+                "logo": "skills/trello.svg"
+            },
+            {
+                "name": "AWS",
+                "logo": "skills/aws.svg"
+            },
+            {
+                "name": "Tailwind",
+                "logo": "skills/tailwind.svg"
+            },
+            {
+                "name": "NodeJs",
+                "logo": "skills/nodejs.svg"
+            },
+            {
+                "name": "Angular",
+                "logo": "skills/angular.svg"
+            },
+            {
+                "name": "NextJS",
+                "logo": "skills/nextjs.svg"
+            },
+            {
+                "name": "Google Cloud",
+                "logo": "skills/gc.svg"
+            },
+            {
+                "name": "Sass",
+                "logo": "skills/sass.svg"
+            },
+            {
+                "name": "Less",
+                "logo": "skills/less.svg"
+            },
+            {
+                "name": "Docker",
+                "logo": "skills/docker.svg"
+            },
+            {
+                "name": "Git",
+                "logo": "skills/git.svg"
+            },
+            {
+                "name": "Git Flow",
+                "logo": "skills/gitflow.svg"
+            },
+            {
+                "name": "MongoDB",
+                "logo": "skills/mongodb.svg"
+            },
+            {
+                "name": "SOAP",
+                "logo": "skills/soapui.svg"
+            },
+            {
+                "name": "REST",
+                "logo": "skills/rest.svg"
+            },
+            {
+                "name": "SOLID",
+                "logo": "skills/solid.svg"
+            },
+            {
+                "name": "Clean Code",
+                "logo": "skills/cleancode.svg"
+            },
+            {
+                "name": "POO",
+                "logo": "skills/poo.svg"
+            }
+        ]
+    },
+    {
+        "title": "Desarrollador Full Stack Senior",
+        "company": "U2 Software",
+        "logo": "companys/U2logo.png",
+        "date": "Mayo 2021 - Septiembre 2022",
+        "description": "Mantenimiento, Soporte e Instalación de aplicativos web ERP, Ejecución de Controles de Cambios, Implementación del ciclo de vida del software. Proyectos: Sistema ERP de la compañía llamado Starcommerce y Tienda Online para la misma ERP: Módulos de ventas, inventario, Kardex, Facturación, Nomina.",
+        "tecnologies": [
+            {
+                "name": "Laravel",
+                "logo": "skills/laravel.svg"
+            },
+            {
+                "name": "Vuejs",
+                "logo": "skills/vue.svg"
+            },
+            {
+                "name": "react",
+                "logo": "skills/react.svg"
+            },
+            {
+                "name": "Trello",
+                "logo": "skills/trello.svg"
+            },
+            {
+                "name": "AWS",
+                "logo": "skills/aws.svg"
+            },
+            {
+                "name": "Tailwind",
+                "logo": "skills/tailwind.svg"
+            },
+            {
+                "name": "NodeJs",
+                "logo": "skills/nodejs.svg"
+            },
+            {
+                "name": "Angular",
+                "logo": "skills/angular.svg"
+            },
+            {
+                "name": "NextJS",
+                "logo": "skills/nextjs.svg"
+            },
+            {
+                "name": "Google Cloud",
+                "logo": "skills/gc.svg"
+            },
+            {
+                "name": "Sass",
+                "logo": "skills/sass.svg"
+            },
+            {
+                "name": "Less",
+                "logo": "skills/less.svg"
+            },
+            {
+                "name": "Docker",
+                "logo": "skills/docker.svg"
+            },
+            {
+                "name": "Git",
+                "logo": "skills/git.svg"
+            },
+            {
+                "name": "Git Flow",
+                "logo": "skills/gitflow.svg"
+            },
+            {
+                "name": "MongoDB",
+                "logo": "skills/mongodb.svg"
+            },
+            {
+                "name": "SOAP",
+                "logo": "skills/soapui.svg"
+            },
+            {
+                "name": "REST",
+                "logo": "skills/rest.svg"
+            },
+            {
+                "name": "SOLID",
+                "logo": "skills/solid.svg"
+            },
+            {
+                "name": "Clean Code",
+                "logo": "skills/cleancode.svg"
+            },
+            {
+                "name": "POO",
+                "logo": "skills/poo.svg"
+            }
+        ]
+    },
+    {
+        "title": "Desarrollador II",
+        "company": "Thomas MTI",
+        "logo": "companys/thomas.png",
+        "date": "Enero 2014 - Mayo 2021",
+        "description": "Mantenimiento de aplicativos productivos, ejecución de Controles de Cambios, pasos a Producción, Implementación del ciclo de vida del software. Proyectos: Sistema Administrativo Sena, Sistemas de Gestion Documental para BCS, Davivienda, Liberty Seguros, Colpensiones, Comfandi, Carpeta Digital para Liberty Seguros, Sistema de Captura de datos sobre imagen para Gelsa.",
+        "tecnologies": [
+            {
+                "name": "NodeJs",
+                "logo": "skills/nodejs.svg"
+            },
+            {
+                "name": "Angular",
+                "logo": "skills/angular.svg"
+            },
+            {
+                "name": "Docker",
+                "logo": "skills/docker.svg"
+            },
+            {
+                "name": "Git",
+                "logo": "skills/git.svg"
+            },
+            {
+                "name": "SOAP",
+                "logo": "skills/soapui.svg"
+            },
+            {
+                "name": "REST",
+                "logo": "skills/rest.svg"
+            },
+            {
+                "name": "SOLID",
+                "logo": "skills/solid.svg"
+            },
+            {
+                "name": "Clean Code",
+                "logo": "skills/cleancode.svg"
+            },
+            {
+                "name": "POO",
+                "logo": "skills/poo.svg"
+            },
+            {
+                "name": "SCRUM",
+                "logo": "skills/scrum.svg"
+            },
+            {
+                "name": "KANBAN",
+                "logo": "skills/kanban.svg"
+            },
+            {
+                "name": "PostgreSql",
+                "logo": "skills/postgresql.svg"
+            },
+            {
+                "name": "MySQL",
+                "logo": "skills/mysql.svg"
+            },
+            {
+                "name": "MariaDB",
+                "logo": "skills/mariadb.svg"
+            },
+            {
+                "name": "ORACLE DB",
+                "logo": "skills/oracle.svg"
+            },
+            {
+                "name": "Codeigniter",
+                "logo": "skills/codeigniter.svg"
+            },
+            {
+                "name": "SQL SERVER",
+                "logo": "skills/sqlserver.svg"
+            },
+            {
+                "name": "CSS",
+                "logo": "skills/css3.svg"
+            },
+            {
+                "name": "HTML",
+                "logo": "skills/html.svg"
+            },
+            {
+                "name": "Bootstrap",
+                "logo": "skills/bootstrap.svg"
+            },
+            {
+                "name": "Semantic UI",
+                "logo": "skills/semantic.svg"
+            },
+            {
+                "name": "Semantic UI",
+                "logo": "skills/materialui.svg"
+            }
+        ]
+    }
+]

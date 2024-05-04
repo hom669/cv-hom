@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Git",
+        "logo": "skills/git.svg",
+        "stars": 5
+    },
+    {
+        "name": "Git Flow",
+        "logo": "skills/gitflow.svg",
+        "stars": 4
+    },
+    {
+        "name": "SVN",
+        "logo": "skills/tortoisesvn.svg",
+        "stars": 3
+    },
+    {
+        "name": "Docker",
+        "logo": "skills/docker.svg",
+        "stars": 4
+    },
+    {
+        "name": "AWS",
+        "logo": "skills/aws.svg",
+        "stars": 3
+    },
+    {
+        "name": "Google Cloud",
+        "logo": "skills/gc.svg",
+        "stars": 3
+    },
+    {
+        "name": "Jquery",
+        "logo": "skills/jquery.svg",
+        "stars": 5
+    },
+    {
+        "name": "Sass",
+        "logo": "skills/sass.svg",
+        "stars": 4
+    },
+    {
+        "name": "Less",
+        "logo": "skills/less.svg",
+        "stars": 4
+    },
+    {
+        "name": "Linux",
+        "logo": "skills/linux.svg",
+        "stars": 5
+    },
+    {
+        "name": "Windows",
+        "logo": "skills/windows.svg",
+        "stars": 5
+    },
+    {
+        "name": "Figma",
+        "logo": "skills/figma.svg",
+        "stars": 3
+    },
+    {
+        "name": "SCRUM",
+        "logo": "skills/scrum.svg",
+        "stars": 4
+    },
+    {
+        "name": "Kanban",
+        "logo": "skills/kanban.svg",
+        "stars": 4
+    },
+    {
+        "name": "Cascade",
+        "logo": "skills/cascade.svg",
+        "stars": 4
+    },
+    {
+        "name": "Jira",
+        "logo": "skills/jira.svg",
+        "stars": 3
+    },
+    {
+        "name": "Trello",
+        "logo": "skills/trello.svg",
+        "stars": 3
+    },
+    {
+        "name": "SOLID",
+        "logo": "skills/solid.svg",
+        "stars": 4
+    },
+    {
+        "name": "Clean Code",
+        "logo": "skills/cleancode.svg",
+        "stars": 4
+    },
+    {
+        "name": "POO",
+        "logo": "skills/poo.svg",
+        "stars": 5
+    },
+    {
+        "name": "Office",
+        "logo": "skills/office.svg",
+        "stars": 4
+    },
+    {
+        "name": "LibreOffice",
+        "logo": "skills/libreoffice.svg",
+        "stars": 4
+    },
+    {
+        "name": "Material UI",
+        "logo": "skills/materialui.svg",
+        "stars": 4
+    },
+    {
+        "name": "Boostrap",
+        "logo": "skills/bootstrap.svg",
+        "stars": 5
+    },
+    {
+        "name": "Tailwind",
+        "logo": "skills/tailwind.svg",
+        "stars": 4
+    },
+    {
+        "name": "Semantic UI",
+        "logo": "skills/semantic.svg",
+        "stars": 4
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Desarrollador Full Stack",
+        "company": "CINTE COLOMBIA",
+        "logo": "companys/cinte.png",
+        "date": "Enero 2024 - Actualmente",
+        "description": "Mantenimiento, Creación nuevos modulos o cambios software para cliente IBM. Proyectos: Sistema de Tokenización App Davivienda Modulo para Agregar Tarjetas a Google Pay y Apple Wallet",
+        "tecnologies": [
+            {
+                "name": "NodeJs",
+                "logo": "skills/nodejs.svg"
+            },
+            {
+                "name": "Angular",
+                "logo": "skills/angular.svg"
+            },
+            {
+                "name": "Docker",
+                "logo": "skills/docker.svg"
+            },
+            {
+                "name": "Git",
+                "logo": "skills/git.svg"
+            },
+            {
+                "name": "MongoDB",
+                "logo": "skills/mongodb.svg"
+            },
+            {
+                "name": "SOAP",
+                "logo": "skills/soapui.svg"
+            },
+            {
+                "name": "REST",
+                "logo": "skills/nodejs.svg"
+            },
+            {
+                "name": "SOLID",
+                "logo": "skills/nodejs.svg"
+            },
+            {
+                "name": "Clean Code",
+                "logo": "skills/nodejs.svg"
+            },
+            {
+                "name": "POO",
+                "logo": "skills/nodejs.svg"
+            }
+        ]
+    }
+]

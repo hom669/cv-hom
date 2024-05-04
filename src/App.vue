@@ -1,26 +1,29 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="flex justify-center bg-gray-50 dark:bg-gray-900 overflow-x-hidden xl:left-7 xl:relative">
+    <main class="lg:py-20 lg:space-y-8 max-w-5xl px-2 py-3 sm:px-8 sm:py-12 sm:space-y-6 space-y-4 w-full">
+      <LanguageSwitcher />
+      <Profile />
+      <Technologies />
+      <Experience />
+      <Projects />
+    </main>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Profile from './components/ProfileComponent.vue';
+import Technologies from './components/TechnologiesComponent.vue';
+import LanguageSwitcher from './components/LanguageSwitcherComponent.vue';
+import Experience from './components/ExperienceComponent.vue';
+import Projects from './components/ProjectsComponent.vue';
 
 export default {
-  name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    Profile,
+    Technologies,
+    LanguageSwitcher,
+    Experience,
+    Projects
+  },
+};
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

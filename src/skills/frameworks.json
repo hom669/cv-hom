@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Laravel",
+        "logo": "skills/laravel.svg",
+        "stars": 5
+    },
+    {
+        "name": "Codeigniter",
+        "logo": "skills/codeigniter.svg",
+        "stars": 3
+    },
+    {
+        "name": "Vue.js",
+        "logo": "skills/vue.svg",
+        "stars": 4
+    },
+    {
+        "name": "Node.js",
+        "logo": "skills/nodejs.svg",
+        "stars": 3
+    },
+    {
+        "name": "Next.js",
+        "logo": "skills/nextjs.svg",
+        "stars": 3
+    },
+    {
+        "name": "Angular",
+        "logo": "skills/angular.svg",
+        "stars": 4
+    },
+    {
+        "name": "React.js",
+        "logo": "skills/react.svg",
+        "stars": 3
+    }
+]

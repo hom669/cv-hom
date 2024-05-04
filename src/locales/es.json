@@ -1,0 +1,29 @@
+{
+    "email": "Correo Electronico",
+    "from": "Lugar Actual",
+    "salary_range": "Rango Salarial",
+    "profile": "Soy un apasionado desarrollador de aplicaciones con más de 9 años de experiencia, especializado en el desarrollo de aplicaciones web. Mi experiencia se destaca en PHP, Javascript, y frameworks como Laravel, Codeigniter, Symfony. Poseo conocimiento más que intermedio en Vue.js, mientras que en C#, Ruby on Rails y NextJS estoy en proceso de adquirir habilidades más que intermedias. Estoy explorando también el mundo de Python. Como profesional en constante evolución, cuento con habilidades nivel intermedio en frameworks JavaScript como Angular, React y Nodejs, permitiéndome abordar proyectos web con enfoques modernos y eficientes.",
+    "title": "<Ingeniero de Sistemas/>",
+    "title2": "<Desarrollador Full Stack/>",
+    "characters": [
+        "Buenas relaciones interpersonales.",
+        "Capacidad de trabajo bajo presión y con rapidez.",
+        "Trabajo independiente y en equipo.",
+        "Gran rendimiento bajo presión."
+    ],
+    "freelance": "Trabajo Freelance",
+    "mentoring": "Disponible para mentoria",
+    "fulltime": "Trabajo Tiempo Completo",
+    "skills": "Habilidades",
+    "downcv": "Descarga CV",
+    "know": "Ya lo Conozco",
+    "languages": "Lenguajes",
+    "frameworks": "Frameworks",
+    "bases": "Bases de Datos",
+    "others": "Otros",
+    "spanish": "Español - Nativo",
+    "english": "Ingles - A2",
+    "experience": "Experiencia laboral",
+    "technologies": "Tecnologias",
+    "projects": "Proyectos Personales"
+}

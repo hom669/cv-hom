@@ -1,0 +1,30 @@
+{
+    "email": "Email",
+    "from": "From",
+    "salary_range": "Salary range",
+    "profile": "I am a passionate application developer with over 9 years of experience, specializing in web application development. My expertise stands out in PHP, Javascript, and frameworks such as Laravel, Codeigniter, and Symfony. I have more than intermediate knowledge in Vue.js, while I am in the process of acquiring more that basic skills in C#, Ruby on Rails, and NextJS. I am also exploring the world of Python. As a constantly evolving professional, I have intermediate-level skills in JavaScript frameworks such as Angular, React, and Node.js, allowing me to approach web projects with modern and efficient approaches.",
+    "title": "<Systems Engineer/>",
+    "title2": "<Developer Full Stack/>",
+    "characters": [
+        "Ease of learning new tools and technologies.",
+        "Good interpersonal relationships.",
+        "Ability to work under pressure and quickly.",
+        "Independent and team work.",
+        "High performance under pressure."
+    ],
+    "freelance": "Open for freelance",
+    "mentoring": "Available for mentoring",
+    "fulltime": "Working Fulltime",
+    "skills": "Skills",
+    "downcv": "Download CV",
+    "know": "I already know",
+    "languages": "Languages",
+    "frameworks": "Frameworks",
+    "bases": "Data Bases",
+    "others": "Others",
+    "spanish": "Spanish - Native",
+    "english": "English - A2",
+    "experience": "Work experience",
+    "technologies": "Technologies",
+    "projects": "Personal Projects"
+}

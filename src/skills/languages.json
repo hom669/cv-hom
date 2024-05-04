@@ -1,0 +1,42 @@
+[
+    {
+        "name": "PHP",
+        "logo": "skills/php.svg",
+        "stars": 5
+    },
+    {
+        "name": "Javascript",
+        "logo": "skills/js.svg",
+        "stars": 5
+    },
+    {
+        "name": "Typescrypt",
+        "logo": "skills/ts.svg",
+        "stars": 4
+    },
+    {
+        "name": "Python",
+        "logo": "skills/python.svg",
+        "stars": 3
+    },
+    {
+        "name": "Ruby On Rails",
+        "logo": "skills/rails.svg",
+        "stars": 3
+    },
+    {
+        "name": "C#",
+        "logo": "skills/c.svg",
+        "stars": 2
+    },
+    {
+        "name": "CSS",
+        "logo": "skills/css3.svg",
+        "stars": 2
+    },
+    {
+        "name": "HTML",
+        "logo": "skills/html.svg",
+        "stars": 2
+    }
+]
