@@ -1,0 +1,20 @@
+[
+    {
+        "name": "World Prayer Movement Registration Page",
+        "description": "This is an application created for a Christian foundation that organizes prayer events. Its purpose is to keep track of the people who attend and to be able to communicate with them at any time.",
+        "image": "projects/movimiento.png",
+        "url": "https://admin.movimientodeoracion24h.org/"
+    },
+    {
+        "name": "Page to Track Orders for Berlhan Company",
+        "description": "This application was designed by an employee of the company to have control over all orders placed by the company worldwide, know the stage of each order, keep records of customers, vendors, and transporters, and get reports on all created requests.",
+        "image": "projects/berlhan.png",
+        "url": "https://appberlhan.inghoma.com/"
+    },
+    {
+        "name": "Smart Talent Food Products Store Page",
+        "description": "This system is a personal project for the start of an online store application. At the moment, its functionality is not complete but is in progress and was created as part of a test for a company.",
+        "image": "projects/smarttalent.png",
+        "url": "https://smartshop-b7679.web.app/login"
+    }
+]

@@ -4,18 +4,19 @@
         <div class="flex flex-col gap-6 items-start sm:flex-row">
             <div class="flex items-center gap-4 sm:flex-col"><img alt="Hom" decoding="async" fit="cover" height="320"
                     loading="lazy" src="@/assets/profile-pic.jpg" width="320"
-                    class="rounded-lg h-24 max-w-none md:h-52 md:w-52 sm:h-36 sm:w-36 w-24"> <button type="button"
-                    @click="openModal"
-                    class="font-medium items-center active:translate-y-px bg-blue-600 cursor-pointer focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 h-10 hover:bg-primary-700 inline-flex px-4 rounded-md select-none shadow-sm text-base text-white"
-                    download="CV-Mark_Freeman.pdf">{{ $t('downcv')
-                    }}</button></div>
+                    class="rounded-lg h-24 max-w-none md:h-52 md:w-52 sm:h-36 sm:w-36 w-24">
+                <a :href="pdfSource" target="_blank"
+                    class="font-medium items-center active:translate-y-px bg-blue-600 cursor-pointer focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 h-10 hover:bg-primary-700 inline-flex px-4 rounded-md select-none shadow-sm text-base text-white">
+                    {{ $t('downcv') }}
+                </a>
+            </div>
             <div class="flex flex-col w-full gap-5">
                 <div class="flex flex-col w-full gap-2 justify-between sm:flex-row">
                     <div class="w-full">
                         <h1 class="text-gray-900 dark:text-gray-100 font-extrabold text-3xl sm:text-4xl">Haider Oviedo
                             Martinez
                         </h1>
-                        <h2 class="typewriter text-blue-900 dark:text-blue-500 font-extrabold text-2xl sm:text-3xl"
+                        <h2 class="typewriter text-blue-900 dark:text-blue-500 font-extrabold text-xl sm:text-xl"
                             ref="typewriter">{{ displayedText }}<span class="cursor"></span></h2>
                     </div>
                     <div class="flex gap-3 flex-wrap sm:flex-nowrap "><a
@@ -158,6 +159,8 @@ import { useI18n } from 'vue-i18n';
 
 export default {
     setup() {
+
+        const pdfSource = ref('/CV_ESP.pdf');
         const { t, locale } = useI18n();
         const displayedText = ref('');
 
@@ -219,9 +222,15 @@ export default {
             titles.value = [t('title'), t('title2')]; // Actualiza títulos con las nuevas traducciones
             currentTitleIndex = 0; // Reinicia el índice
             startTypewriterEffect(titles.value[currentTitleIndex]); // Reinicia el efecto de máquina de escribir
-        });
+            if (locale.value == 'es') {
+                console.log(locale.value);
+                pdfSource.value = '/CV_ESP.pdf';
+            } else {
+                pdfSource.value = '/CV_ENG.pdf';
+            }
 
-        const pdfSource = '/CV_ESP.pdf';
+            console.log(pdfSource.value);
+        });
 
         return {
             displayedText,

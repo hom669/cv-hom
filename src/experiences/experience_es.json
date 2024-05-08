@@ -46,7 +46,8 @@
                 "name": "POO",
                 "logo": "skills/poo.svg"
             }
-        ]
+        ],
+        "url": "https://grupocinte.com/grupocintecolombia/"
     },
     {
         "title": "Desarrollador Full Stack Senior",
@@ -139,7 +140,8 @@
                 "name": "POO",
                 "logo": "skills/poo.svg"
             }
-        ]
+        ],
+        "url": "https://qorehealth.com/"
     },
     {
         "title": "Desarrollador Full Stack Senior",
@@ -232,7 +234,8 @@
                 "name": "POO",
                 "logo": "skills/poo.svg"
             }
-        ]
+        ],
+        "url": "https://starcommerce.co/"
     },
     {
         "title": "Desarrollador II",
@@ -329,6 +332,7 @@
                 "name": "Semantic UI",
                 "logo": "skills/materialui.svg"
             }
-        ]
+        ],
+        "url": "https://thomasgregandsons.com/"
     }
 ]

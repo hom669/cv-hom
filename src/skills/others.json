@@ -2,131 +2,157 @@
     {
         "name": "Git",
         "logo": "skills/git.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://github.com/"
     },
     {
         "name": "Git Flow",
         "logo": "skills/gitflow.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow"
     },
     {
         "name": "SVN",
         "logo": "skills/tortoisesvn.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://tortoisesvn.net/"
     },
     {
         "name": "Docker",
         "logo": "skills/docker.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://www.docker.com/"
     },
     {
         "name": "AWS",
         "logo": "skills/aws.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://aws.amazon.com/"
     },
     {
         "name": "Google Cloud",
         "logo": "skills/gc.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://cloud.google.com/"
     },
     {
         "name": "Jquery",
         "logo": "skills/jquery.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://jquery.com/"
     },
     {
         "name": "Sass",
         "logo": "skills/sass.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://sass-lang.com/"
     },
     {
         "name": "Less",
         "logo": "skills/less.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://lesscss.org/"
     },
     {
         "name": "Linux",
         "logo": "skills/linux.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://www.linux.org/"
     },
     {
         "name": "Windows",
         "logo": "skills/windows.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://www.microsoft.com/es-co"
     },
     {
         "name": "Figma",
         "logo": "skills/figma.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://www.figma.com/"
     },
     {
         "name": "SCRUM",
         "logo": "skills/scrum.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://www.scrum-institute.org/"
     },
     {
         "name": "Kanban",
         "logo": "skills/kanban.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://kanbanguides.org/"
     },
     {
         "name": "Cascade",
         "logo": "skills/cascade.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://safetyculture.com/es/temas/metodologia-en-cascada/"
     },
     {
         "name": "Jira",
         "logo": "skills/jira.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://www.atlassian.com/software/jira"
     },
     {
         "name": "Trello",
         "logo": "skills/trello.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://trello.com/"
     },
     {
         "name": "SOLID",
         "logo": "skills/solid.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://corecppil.github.io/Meetups/2020-05-26_CoreCpp_Worldwide!/The_SOLID_Principles.pdf"
     },
     {
         "name": "Clean Code",
         "logo": "skills/cleancode.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29"
     },
     {
         "name": "POO",
         "logo": "skills/poo.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming"
     },
     {
         "name": "Office",
         "logo": "skills/office.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://www.microsoft.com/"
     },
     {
         "name": "LibreOffice",
         "logo": "skills/libreoffice.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://www.libreoffice.org/discover/libreoffice/"
     },
     {
         "name": "Material UI",
         "logo": "skills/materialui.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://mui.com/"
     },
     {
         "name": "Boostrap",
         "logo": "skills/bootstrap.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://getbootstrap.com/"
     },
     {
         "name": "Tailwind",
         "logo": "skills/tailwind.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://tailwindui.com/"
     },
     {
         "name": "Semantic UI",
         "logo": "skills/semantic.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://semantic-ui.com/"
     }
 ]

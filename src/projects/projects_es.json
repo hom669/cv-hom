@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Página Registros Movimiento Mundial de Oración",
+        "description": "Este es un aplicativo realizado para una fundación cristiana que realiza eventos de oración y su función es llevar un control de las personas que asisten a él y poder tener comunicación con ellos en cualquier momento.",
+        "image": "projects/movimiento.png",
+        "url": "https://admin.movimientodeoracion24h.org/"
+    },
+    {
+        "name": "Página Para Realizar Seguimiento de Pedidos Empresa Berlhan",
+        "description": "Este es un aplicativo pensado por una trabajadora de la compañía para poder tener control de todos los pedidos que realiza la compañía a nivel mundial, saber en qué etapa se encuentra, tener registro de clientes, vendedores y transportistas, y obtener informes de todas las solicitudes creadas en este.",
+        "image": "projects/berlhan.png",
+        "url": "https://appberlhan.inghoma.com/"
+    },
+    {
+        "name": "Pagina Tienda Smart Talent Productos Alimenticios",
+        "description": "Este sistema es solo un proyecto personal para el inicio de una aplicación de tienda online. En este momento, su funcionalidad no está completa, pero está en progreso y nació como parte de una prueba para una compañía.",
+        "image": "projects/smarttalent.png",
+        "url": "https://smartshop-b7679.web.app/login"
+    }
+]

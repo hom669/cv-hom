@@ -1,18 +1,22 @@
 [
     {
         "name": "Cordova",
-        "logo": "skills/cordova.svg"
+        "logo": "skills/cordova.svg",
+        "url": "https://cordova.apache.org/"
     },
     {
         "name": "React Native",
-        "logo": "skills/reactnative.svg"
+        "logo": "skills/reactnative.svg",
+        "url": "https://reactnative.dev/"
     },
     {
         "name": "Flutter",
-        "logo": "skills/flutter.svg"
+        "logo": "skills/flutter.svg",
+        "url": "https://flutter.dev/"
     },
     {
         "name": "Firebase",
-        "logo": "skills/firebase.svg"
+        "logo": "skills/firebase.svg",
+        "url": "https://firebase.google.com/"
     }
 ]

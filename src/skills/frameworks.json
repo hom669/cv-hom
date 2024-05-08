@@ -2,36 +2,43 @@
     {
         "name": "Laravel",
         "logo": "skills/laravel.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://laravel.com/"
     },
     {
         "name": "Codeigniter",
         "logo": "skills/codeigniter.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://codeigniter.com/"
     },
     {
         "name": "Vue.js",
         "logo": "skills/vue.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://vuejs.org/"
     },
     {
         "name": "Node.js",
         "logo": "skills/nodejs.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://nodejs.org/en"
     },
     {
         "name": "Next.js",
         "logo": "skills/nextjs.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://nextjs.org/"
     },
     {
         "name": "Angular",
         "logo": "skills/angular.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://angular.io/"
     },
     {
         "name": "React.js",
         "logo": "skills/react.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://es.react.dev/"
     }
 ]

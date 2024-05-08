@@ -2,31 +2,37 @@
     {
         "name": "Postgresql",
         "logo": "skills/postgresql.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://www.postgresql.org/"
     },
     {
         "name": "Mysql",
         "logo": "skills/mysql.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://www.mysql.com/"
     },
     {
         "name": "MariaDB",
         "logo": "skills/mariadb.svg",
-        "stars": 5
+        "stars": 5,
+        "url": "https://mariadb.org/"
     },
     {
         "name": "Oracle",
         "logo": "skills/oracle.svg",
-        "stars": 2
+        "stars": 2,
+        "url": "https://www.oracle.com/co/"
     },
     {
         "name": "SQL Server",
         "logo": "skills/sqlserver.svg",
-        "stars": 3
+        "stars": 3,
+        "url": "https://www.microsoft.com/es-co/sql-server/sql-server-2022"
     },
     {
         "name": "MongoDB",
         "logo": "skills/mongodb.svg",
-        "stars": 4
+        "stars": 4,
+        "url": "https://www.mongodb.com/es"
     }
 ]

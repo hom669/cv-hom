@@ -9,15 +9,22 @@
                 <!-- Contenido del bloque de experiencia -->
                 <div class="flex gap-2 justify-between w-full">
                     <div class="flex gap-4">
-                        <img alt="Google logo" decoding="async" fit="cover" height="104" loading="lazy"
-                            :src="require('@/assets/' + experience.logo)" width="200"
-                            class="hidden rounded-md sm:block h-18 w-18">
+                        <a :href="experience.url" target="_blank" rel="noopener noreferrer">
+                            <img alt="Google logo" decoding="async" fit="cover" height="104" loading="lazy"
+                                :src="require('@/assets/' + experience.logo)" width="200"
+                                class="hidden rounded-md sm:block h-18 w-18">
+                        </a>
                         <div class="flex flex-col">
-                            <h3 class="text-gray-900 dark:text-gray-100 font-extrabold text-xl">{{ experience.title }}
-                            </h3>
-                            <p class="text-gray-900 dark:text-gray-100 font-semibold leading-snug mb-0.5 text-base">{{
-                                experience.company }}</p>
-                            <p class="font-medium text-gray-700 text-sm dark:text-gray-100">{{ experience.date }}</p>
+                            <a :href="experience.url" target="_blank" rel="noopener noreferrer">
+                                <h3 class="text-gray-900 dark:text-gray-100 font-extrabold text-xl">{{ experience.title
+                                    }}
+                                </h3>
+                                <p class="text-gray-900 dark:text-gray-100 font-semibold leading-snug mb-0.5 text-base">
+                                    {{
+                                        experience.company }}</p>
+                                <p class="font-medium text-gray-700 text-sm dark:text-gray-100">{{ experience.date }}
+                                </p>
+                            </a>
                         </div>
                     </div>
                     <!-- Más contenido aquí -->
@@ -34,7 +41,7 @@
                     <div class="flex gap-3 flex-wrap">
                         <!-- Lista de tecnologías -->
                         <a v-for="(tecnologie, techIndex) in experience.tecnologies" :key="techIndex"
-                            href="https://reactjs.org/"
+                            :href="tecnologie.url"
                             class="flex items-center bg-gray-100 rounded dark:bg-gray-700 dark:text-gray-100 font-medium gap-x-1.5 h-6 px-2.5 text-gray-700 text-sm tracking-wide w-fit dark:hover:bg-gray-600 hover:bg-gray-200"
                             target="_blank" rel="noopener noreferrer">
                             <img :alt="tecnologie.name" decoding="async" fit="cover" loading="lazy"
@@ -48,7 +55,6 @@
         </div>
     </div>
 </template>
-
 
 <script>
 import experienceEs from '@/experiences/experience_es.json';

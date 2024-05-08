@@ -12,7 +12,7 @@
                     }}</h2>
                 <div class="flex flex-wrap gap-8">
                     <div v-for="(language, index) in languages" :key="index" class="flex flex-col gap-2">
-                        <div class="flex items-center h-5 justify-between"><a href="https://reactjs.org/"
+                        <div class="flex items-center h-5 justify-between"><a :href="language.url"
                                 class="flex gap-2 h-5" target="_blank" rel="noopener noreferrer">
                                 <img :alt="language.name" decoding="async" fit="cover" loading="lazy"
                                     :src="require('@/assets/' + language.logo)"
@@ -38,7 +38,7 @@
                     }}</h2>
                 <div class="flex flex-wrap gap-8">
                     <div v-for="(framework, index) in frameworks" :key="index" class="flex flex-col gap-2">
-                        <div class="flex items-center h-5 justify-between"><a href="https://reactjs.org/"
+                        <div class="flex items-center h-5 justify-between"><a :href="framework.url"
                                 class="flex gap-2 h-5" target="_blank" rel="noopener noreferrer">
                                 <img :alt="framework.name" decoding="async" fit="cover" loading="lazy"
                                     :src="require('@/assets/' + framework.logo)"
@@ -65,7 +65,7 @@
                     }}</h2>
                 <div class="flex flex-wrap gap-8">
                     <div v-for="(database, index) in databases" :key="index" class="flex flex-col gap-2">
-                        <div class="flex items-center h-5 justify-between"><a href="https://reactjs.org/"
+                        <div class="flex items-center h-5 justify-between"><a :href="database.url"
                                 class="flex gap-2 h-5" target="_blank" rel="noopener noreferrer">
                                 <img :alt="database.name" decoding="async" fit="cover" loading="lazy"
                                     :src="require('@/assets/' + database.logo)"
@@ -92,8 +92,8 @@
                     }}</h2>
                 <div class="flex flex-wrap gap-8">
                     <div v-for="(other, index) in others" :key="index" class="flex flex-col gap-2">
-                        <div class="flex items-center h-5 justify-between"><a href="https://reactjs.org/"
-                                class="flex gap-2 h-5" target="_blank" rel="noopener noreferrer">
+                        <div class="flex items-center h-5 justify-between"><a :href="other.url" class="flex gap-2 h-5"
+                                target="_blank" rel="noopener noreferrer">
                                 <img :alt="other.name" decoding="async" fit="cover" loading="lazy"
                                     :src="require('@/assets/' + other.logo)"
                                     class="rounded-lg h-5 max-w-6 md:h-5 md:w-6 sm:h-5 sm:w-6 w-6">
@@ -117,9 +117,9 @@
             </div>
             <!--NOT KNOW-->
             <div class="flex flex-col gap-3">
-                <h3 class="text-gray-900 dark:text-gray-100 font-extrabold text-lg">I want to learn</h3>
+                <h3 class="text-gray-900 dark:text-gray-100 font-extrabold text-lg">{{ $t('want') }}</h3>
                 <div class="flex gap-3 flex-wrap">
-                    <a v-for="(notknow, index) in notknows" :key="index" href="https://www.apollographql.com/"
+                    <a v-for="(notknow, index) in notknows" :key="index" :href="notknow.url"
                         class="flex items-center bg-gray-100 rounded dark:bg-gray-700 dark:text-gray-100 font-medium gap-x-1.5 h-6 px-2.5 text-gray-700 text-sm tracking-wide w-fit dark:hover:bg-gray-600 hover:bg-gray-200"
                         target="_blank" rel="noopener noreferrer"><img :alt="notknow.name" decoding="async" fit="cover"
                             loading="lazy" :src="require('@/assets/' + notknow.logo)"
@@ -130,7 +130,7 @@
 
             <!--LANGUAGES-->
             <div class="flex flex-col gap-3">
-                <h3 class="text-gray-900 dark:text-gray-100 font-extrabold text-lg">I speak</h3>
+                <h3 class="text-gray-900 dark:text-gray-100 font-extrabold text-lg">{{ $t('speak') }}</h3>
                 <div class="flex gap-3 flex-wrap">
                     <div
                         class="flex items-center bg-gray-100 rounded dark:bg-gray-700 dark:text-gray-100 font-medium gap-x-1.5 h-6 px-2.5 text-gray-700 text-sm tracking-wide w-fit">
